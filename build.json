@@ -1,0 +1,9 @@
+{
+	"id": "random_cat",
+	"version": "1.0",
+	"description": "Show random cat gifs",
+	"categories": [
+		"toys"
+	],
+	"compatible_from": "2017.3.12"
+}
