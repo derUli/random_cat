@@ -1,7 +1,7 @@
 {
 	"id": "random_cat",
 	"version": "1.0",
-	"description": "Show random cat gifs",
+	"description": "Shows random cat gifs",
 	"categories": [
 		"toys"
 	],
